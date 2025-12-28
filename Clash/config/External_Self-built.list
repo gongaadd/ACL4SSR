@@ -1,0 +1,26 @@
+# 经常访问的一些博主
+# 一些自己搭建的网站，需要外网访问
+
+# 博主
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,m123.org
+DOMAIN-SUFFIX,eooce.com
+DOMAIN-SUFFIX,cccyun.cn
+DOMAIN-SUFFIX,fkjun.com
+DOMAIN-SUFFIX,cactusli.net
+DOMAIN-SUFFIX,zrf.me
+DOMAIN,blog.090227.xyz
+DOMAIN,blog.cmliussss.com
+DOMAIN,chinaip.090227.xyz
+
+# 自建
+DOMAIN-SUFFIX,se5.121810.xyz
+DOMAIN-SUFFIX,sql.121810.xyz
+DOMAIN-SUFFIX,panel.121810.xyz
+DOMAIN-SUFFIX,smemos.121810.xyz
+DOMAIN-SUFFIX,sub.121810.xyz
+DOMAIN-SUFFIX,121810.xyz
+DOMAIN-SUFFIX,webssh.121810.xyz
+
+# 其他
+DOMAIN-SUFFIX,workers.dev
