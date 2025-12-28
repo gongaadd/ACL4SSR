@@ -1,1 +1,32 @@
+# 影视
+# 一些自己搭建的网站，需要直连
 
+# 影视
+DOMAIN-SUFFIX,tv.ggaa.me
+DOMAIN-SUFFIX,ys.yyss.cloudns.ch
+DOMAIN-SUFFIX,ffzyapi.com
+DOMAIN-SUFFIX,bfzyapi.com
+DOMAIN-SUFFIX,dyttzyapi.com
+DOMAIN-SUFFIX,rycjapi.com
+DOMAIN-SUFFIX,dbzy.com
+DOMAIN-SUFFIX,mdzyapi.com
+DOMAIN-SUFFIX,apibdzy.com
+DOMAIN-SUFFIX,kunzyapi.com
+DOMAIN-SUFFIX,wujinapi.me
+DOMAIN-SUFFIX,tyyszy.com
+
+# 自建
+DOMAIN-SUFFIX,502801.xyz
+DOMAIN-SUFFIX,tuku.cloudns.ch
+DOMAIN-SUFFIX,sub.aadd.cloudns.ch
+DOMAIN-SUFFIX,email.121810.xyz
+DOMAIN-SUFFIX,koyeb-sshweb.121810.xyz
+DOMAIN-SUFFIX,dyq-v2.fldd.eu.org
+DOMAIN-SUFFIX,jhsub.121810.xyz
+DOMAIN-SUFFIX,box.121810.xyz
+DOMAIN-SUFFIX,xhj.zzmm.qzz.io
+DOMAIN-SUFFIX,subweb.121810.xyz
+DOMAIN-SUFFIX,icon.502801.xyz
+
+# 其他
+DOMAIN-SUFFIX,pages.dev
