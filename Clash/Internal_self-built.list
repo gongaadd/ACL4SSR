@@ -41,7 +41,6 @@ DOMAIN-SUFFIX,dc-subapi.121810.xy
 
 # 🛡 CF-验证
 DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,captcha.website
 
 # 其他
 DOMAIN-SUFFIX,pages.dev
