@@ -2,7 +2,6 @@
 # 一些自己搭建的网站，需要直连
 
 # 影视
-DOMAIN-SUFFIX,tv.ggaa.me
 DOMAIN-SUFFIX,ys.yyss.cloudns.ch
 DOMAIN-SUFFIX,ffzyapi.com
 DOMAIN-SUFFIX,bfzyapi.com
@@ -28,6 +27,21 @@ DOMAIN-SUFFIX,xhj.zzmm.qzz.io
 DOMAIN-SUFFIX,subweb.121810.xyz
 DOMAIN-SUFFIX,icon.502801.xyz
 DOMAIN-SUFFIX,subweb.121810.xyz
+DOMAIN-SUFFIX,olist.121710.xyz
+DOMAIN-SUFFIX,hfolist.121710.xyz
+DOMAIN-SUFFIX,subapi.121810.xyz
+DOMAIN-SUFFIX,cloud-edit.121810.xyz
+DOMAIN-SUFFIX,smemos.121810.xyz
+DOMAIN-SUFFIX,webssh.121810.xyz
+DOMAIN-SUFFIX,sql.121810.xyz
+DOMAIN-SUFFIX,douyin.121810.xyz
+DOMAIN-SUFFIX,iosapp.wwzz.de5.net
+DOMAIN-SUFFIX,hfmusic.121810.xyz
+DOMAIN-SUFFIX,dc-subapi.121810.xy
+
+# 🛡 CF-验证
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,captcha.website
 
 # 其他
 DOMAIN-SUFFIX,pages.dev
